@@ -1,0 +1,16 @@
+PODS:
+  - WebAuthenticationSession (0.1.0)
+
+DEPENDENCIES:
+  - WebAuthenticationSession (from `../`)
+
+EXTERNAL SOURCES:
+  WebAuthenticationSession:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WebAuthenticationSession: 32960f062aa691164e437dbc22ec3db655c04085
+
+PODFILE CHECKSUM: 3a58ea14ea014e6a81d8535df26d6c6681d64f07
+
+COCOAPODS: 1.5.2

@@ -1,0 +1,6 @@
+framework module WebAuthenticationSession {
+  umbrella header "WebAuthenticationSession-umbrella.h"
+
+  export *
+  module * { export * }
+}
