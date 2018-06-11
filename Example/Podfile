@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WebAuthenticationSession_Tests' do
+  pod 'WebAuthenticationSession', :path => '../'
+  
+  
+end
